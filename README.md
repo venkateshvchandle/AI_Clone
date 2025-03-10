@@ -1,5 +1,5 @@
 # AI_Clone
-This is a Indic Language Processor that can process words for any indic language It can do the following:
+This is my ai clone that responds the way I do:
 Communicate with my Audio recording
 Hear audio in an Indian accent
 Instructions:
